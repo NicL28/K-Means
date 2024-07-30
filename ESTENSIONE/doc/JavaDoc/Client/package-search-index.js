@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"kMeansClient"},{"l":"kMeansClient.exception"},{"l":"kMeansClient.keyboardinput"}];updateSearchResults();

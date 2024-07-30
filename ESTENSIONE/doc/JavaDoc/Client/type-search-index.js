@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"kMeansClient.keyboardinput","l":"Keyboard"},{"p":"kMeansClient","l":"MainTest"},{"p":"kMeansClient.exception","l":"ServerException"}];updateSearchResults();

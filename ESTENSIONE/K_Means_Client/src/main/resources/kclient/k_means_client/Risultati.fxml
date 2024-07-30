@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="559.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kclient.k_means_client.KController">
+   <children>
+      <Button fx:id="ShowButton" layoutX="240.0" layoutY="14.0" mnemonicParsing="false" onAction="#MostraRisultati" text="Mostra Risultati" />
+      <ScrollPane fx:id="Risultati" layoutX="43.0" layoutY="80.0" prefHeight="442.0" prefWidth="526.0">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0" />
+        </content>
+      </ScrollPane>
+      <Label fx:id="DiServizio" layoutX="28.0" layoutY="50.0" />
+      <Button fx:id="MenuButton" layoutX="28.0" layoutY="14.0" mnemonicParsing="false" onAction="#RitornaMenu" text="Menu" />
+   </children>
+</AnchorPane>
